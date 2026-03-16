@@ -1,0 +1,10 @@
+node_modules/
+android/.gradle/
+android/app/build/
+android/build/
+*.apk
+*.iml
+.idea/
+.DS_Store
+gen_icons.py
+gen_android_icons.py
